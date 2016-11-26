@@ -23,12 +23,12 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To successfully create the infrastructure so that my Google Doc template would publish.</td>
+    <td>To create my page on github editing my name and my avatar and changing the background of my page.</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>I think so, as I followed all the instructions and seem to have done everything in the correct order.</td>
+    <td>Yes I succeeded. I now have an avatar a name and a background to my page.</td>
   </tr>
 </table>
 
@@ -41,21 +41,21 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Mainly by focused listening and watching a demonstration.</td>
+    <td>Mainly by focused listening and watching a demonstration. And also I looked at the teachers code on the board and implemented it in mine.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>The first set of instructions went well, although I managed to get confused when the program showed up a slightly different version of the information and I got distracted by menus that weren't relevant.  
+    <td>The first set of instructions didn't go so well as I couldn't create a user name which then left me behind on the other things. As I was getting more and more left behind I listened to the teacher so I didn't miss any more instructions and caught up quickly on the bits before.
 
-This made me change my ways and I decided to take quick notes (on paper) so that I could remember the instructions in the correct order next time.  This strategy helped me a lot, and the next process went really smoothly.</td>
+I should make notes so if I do get left behind I can follow a set of instructions on my notes to catch up.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Always be ready to make notes so that I don’t forget, and I can work better independently when things go a bit wrong...</td>
+    <td>Always be ready to take notes so that I can keep up with the teacher and not get left behind</td>
   </tr>
 </table>
 
