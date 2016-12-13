@@ -12,6 +12,9 @@
 /**************/
 /* BASE RULES */
 /**************/
+p.three {
+    border-style: solid;
+    border-color: red green blue yellow;
 table{
 	width:100%;
 	margin-bottom: 15px;
