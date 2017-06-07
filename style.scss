@@ -12,7 +12,14 @@
 /**************/
 /* BASE RULES */
 /**************/
-
+<html>
+<head>
+<style>
+p {
+    border: 5px solid black;
+    outline-color:red;
+}
+p.groove {outline-style: groove;}
 table{
 	width:100%;
 	margin-bottom: 15px;
